@@ -42,9 +42,9 @@ namespace LeetCodeInCSharp
             // Learns.LOOPS.RUN();
             // Learns.Conditions.Run();
             // Learns.Basics.Run();
-            // Learns.Classes.Run();
+            Learns.Classes.Run();
             // Learns.Functions.Run();
-            Learns.DateTimeFunctions.Run();
+            // Learns.DateTimeFunctions.Run();
 
         }
         
