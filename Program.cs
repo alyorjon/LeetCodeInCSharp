@@ -41,7 +41,10 @@ namespace LeetCodeInCSharp
             // Learns.DivideTwoNumbers.Run();
             // Learns.LOOPS.RUN();
             // Learns.Conditions.Run();
-            Learns.Basics.Run();
+            // Learns.Basics.Run();
+            // Learns.Classes.Run();
+            // Learns.Functions.Run();
+            Learns.DateTimeFunctions.Run();
 
         }
         

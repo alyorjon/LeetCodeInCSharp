@@ -19,16 +19,16 @@ namespace LeetCodeInCSharp.Learns
 		public static void Excerice4()
 		{
 			Console.WriteLine("Input number:");
-			string? str=Console.ReadLine();
-			int num=int.Parse(str);
-			if (num%4==0)
-			{
-				Console.WriteLine($"{num} is leap year.");
-			}
-			else
-			{
-				Console.WriteLine($"{num} is not leap year.");
-			}
+			// string? str=Console.ReadLine();
+			// int num=int.Parse(str);
+			// if (num%4==0)
+			// {
+			// 	Console.WriteLine($"{num} is leap year.");
+			// }
+			// else
+			// {
+			// 	Console.WriteLine($"{num} is not leap year.");
+			// }
 		}
 		// 3. Write a C# Sharp program to check whether a given number is positive or negative.
 		// Test Data : 14
@@ -37,17 +37,17 @@ namespace LeetCodeInCSharp.Learns
 		public static void Excerice3()
 		{
 			Console.WriteLine("Input Number:");
-			string? str=Console.ReadLine();
-			int num=int.Parse(str);
-			if (num>0)
-			{
-				Console.WriteLine($"{num} is positive number.");
+			// string? str=Console.ReadLine();
+			// int num=int.Parse(str);
+			// if (num>0)
+			// {
+			// 	Console.WriteLine($"{num} is positive number.");
 
-			}
-			else
-			{
-				Console.WriteLine($"{num} is negative number.");
-			}
+			// }
+			// else
+			// {
+			// 	Console.WriteLine($"{num} is negative number.");
+			// }
 		}
 		// 2. Write a C# Sharp program to check whether a given number is even or odd.
 		// Test Data : 15
@@ -56,16 +56,16 @@ namespace LeetCodeInCSharp.Learns
 		public static void Excerice2()
 		{
 			Console.WriteLine("Input number:");
-			string? str=Console.ReadLine();
-			int num=int.Parse(str);
-			if (num%2==0)
-			{
-				Console.WriteLine($"{num} is even");
-			}
-			else 
-			{
-				Console.WriteLine($"{num} is odd");
-			}
+			// string? str=Console.ReadLine();
+			// int num=int.Parse(str);
+			// if (num%2==0)
+			// {
+			// 	Console.WriteLine($"{num} is even");
+			// }
+			// else 
+			// {
+			// 	Console.WriteLine($"{num} is odd");
+			// }
 		}
 		// 1. Write a C# Sharp program to accept two integers and check whether they are equal or not.
 		// Test Data :

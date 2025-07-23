@@ -7,13 +7,13 @@ namespace LeetCodeInCSharp.Learns
 		{
 			// Console.WriteLine(1);
 			// DisplayTeenNumbers();
-			int sumOfTeenNumbers=SumOfTeenNumbers();
+			int sumOfTeenNumbers = SumOfTeenNumbers();
 			// Console.WriteLine(sumOfTeenNumbers);
-			int sumOfNumbers=SumOfNumbers(new int[] {1,3,5,3,2,6});
+			int sumOfNumbers = SumOfNumbers(new int[] { 1, 3, 5, 3, 2, 6 });
 			Console.WriteLine(sumOfNumbers);
-			int[] findOuttennumbersandAverage=findOuttenNumbersSumandAverage();
+			int[] findOuttennumbersandAverage = findOuttenNumbersSumandAverage();
 			Console.WriteLine($"Average:{findOuttennumbersandAverage[1]}\nSum of them:{findOuttennumbersandAverage[0]}");
-			int findOutCubeOfN=findOutCubeOfNumber(11);
+			int findOutCubeOfN = findOutCubeOfNumber(11);
 			Console.WriteLine(findOutCubeOfN);
 			// CreateMultiplicationTable(15);
 			// CreateMultiplicationTableBy1(8);
@@ -25,6 +25,7 @@ namespace LeetCodeInCSharp.Learns
 			PyramidSpacedInRealNumbers(4);
 			FindOutFoctarial(6);
 			FindOutEvenNumbersSum(3);
+			Console.WriteLine();
 		}
 		// 16. Write a program in C# Sharp to display the n terms of even natural number and their sum.
 		public static void FindOutEvenNumbersSum(int number)
